@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chess Study Assistant</string>
+    <string name="file_explorer">Opening Files</string>
+    <string name="directory">/repertoire/</string>
+    <string name="back_text"><![CDATA[<]]></string>
+    <string name="forward_text"><![CDATA[>]]></string>
+</resources>
